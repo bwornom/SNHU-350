@@ -4,9 +4,9 @@ Portfolio for Emerging Sys Architecture and Technology class
 ## Summarize the project and what problem it was solving. 
 The pwmled2 project was an introductory program that taught me the fundamentals of using C programming to interface with the Launchpad technology. The program blinked two LEDs on the Launchapd board
 
-The artifacts for this 
+The state diagram demonstrated the logic for a different program that read input from the user and turned on or off the Launchpad LED depending on the command.
 ## What did you do particularly well?
-I did 
+I did well with understanding how to represent the logic in a diagram. I was able to complete most of the programming requirements as well.
 ## Where could you improve?
 I could have done better at getting assistance for issues I encountered with the programming aspects. I had some technical difficulties and parts I struggled to comprehend, so getting assistance would have gone a long way.
 ## What tools and/or resources are you adding to your support network?
